@@ -19,8 +19,8 @@
       adquiri um interesse ainda maior pela área, hoje 
       estou em formação de desenvolvimento FullStack. <br>
       Tenho conhecimento em metodologia BEM, Git Flow, 
-      mobile first, programação assíncrona, programação <br>
-      funcional. Sou uma pessoa dedicada à função, pontual 
+      mobile first, programação assíncrona, programação
+      funcional.  <br>  Sou uma pessoa dedicada à função, pontual 
       que busca excelência, adoro a área de tecnologia e <br>
       tenho o compromisso de ser um desenvolvedor capacitado 
       para criar  aplicações cada vez melhores. 
