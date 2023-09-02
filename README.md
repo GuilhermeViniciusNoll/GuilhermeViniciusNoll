@@ -64,15 +64,7 @@
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=ED6B21&vCenter=true&width=435&lines=Contatos;Contacts)](https://git.io/typing-svg)
-<div>
- <a href="https://discord.com/users/guilhermevinicius.">  
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="discord" width="100" height="100"/> 
- </a>
- <a href="https://www.linkedin.com/in/guilherme-bugs/">  
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" width="100" height="100"/> 
- </a>
- <a href="mailto:guilhermeVNbugs@outlook.com">  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="100" height="100" />
- </a>
-</div>
 
+| Linkedin | E-mail | Discord |
+|:--------:|:------:|:-------:|
+| <a href="https://www.linkedin.com/in/guilherme-bugs/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" width="100" height="100"/></a> | guilhermeVNbugs@outlook.com | Guilhermevinicius. |
